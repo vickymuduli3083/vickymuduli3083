@@ -1,4 +1,4 @@
-![logo](C:\Users\smudu\OneDrive\Desktop\cv ss.png)
+<img align="" alt="coding" width="400" src="https://drive.google.com/file/d/1hubHmZePbOql82kNlFC9QIyHw8s1sZ2z/view?usp=sharing">
 <h1 align="center">Hello 👋, I'm 
                             Vicky<span>Muduli</span>
                         </h1>
