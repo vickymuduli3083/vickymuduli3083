@@ -1,3 +1,4 @@
+![logo](C:\Users\smudu\OneDrive\Desktop\cv ss.png)
 <h1 align="center">Hello 👋, I'm 
                             Vicky<span>Muduli</span>
                         </h1>
