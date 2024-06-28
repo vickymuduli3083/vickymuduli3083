@@ -1,4 +1,4 @@
-<img align="" alt="coding" width="400" src="https://www.istockphoto.com/photo/web-design-technology-browsing-programming-concept-gm1060739400-283543935?searchscope=image%2Cfilm">
+
 <h1 align="center">Hello 👋, I'm 
                             Vicky<span>Muduli</span>
                         </h1>
