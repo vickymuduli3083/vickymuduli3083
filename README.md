@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm
+<h1 align="center">Hello 👋, I'm 
                             Vicky<span>Muduli</span>
                         </h1>
 <h3 align="center">A passionate frontend developer from Odisha</h3>
